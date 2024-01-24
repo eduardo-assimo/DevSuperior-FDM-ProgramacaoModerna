@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ProgramacaoModerna.iml" filepath="$PROJECT_DIR$/ProgramacaoModerna.iml" />
+      <module fileurl="file://$PROJECT_DIR$/classesatributosmetodosstatic/classesatributosmetodosstatic.iml" filepath="$PROJECT_DIR$/classesatributosmetodosstatic/classesatributosmetodosstatic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/estruturacondicional/estruturacondicional.iml" filepath="$PROJECT_DIR$/estruturacondicional/estruturacondicional.iml" />
+      <module fileurl="file://$PROJECT_DIR$/estruturasrepetitivas/estruturasrepetitivas.iml" filepath="$PROJECT_DIR$/estruturasrepetitivas/estruturasrepetitivas.iml" />
+    </modules>
+  </component>
+</project>
